@@ -17,10 +17,14 @@ body {
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
+  background-position: top;
 }
 
+.card{
+  
+
+}
 /* Contacto */
 
 #Contacto form label {
