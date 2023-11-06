@@ -21,10 +21,7 @@ body {
   background-position: top;
 }
 
-.card{
-  
 
-}
 /* Contacto */
 
 #Contacto form label {
@@ -39,6 +36,11 @@ body {
 
   .navbar-brand{
     width: 100px;
+    
   }
 
+}
+
+.navbar-brand img{
+  max-width: 80%;
 }
